@@ -13,7 +13,7 @@
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_grades.xml" value="0.27395833333333336" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_question.xml" value="0.264" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_user_operation.xml" value="0.27395833333333336" />
-        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/app_bar_user_operation.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/app_bar_user_operation.xml" value="0.4" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/content_user_operation.xml" value="0.27395833333333336" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/error_question_show.xml" value="0.4" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/fragment_blank.xml" value="0.259375" />
@@ -30,6 +30,8 @@
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/menu/activity_user_operation_drawer.xml" value="0.27395833333333336" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/menu/user_operation.xml" value="0.27395833333333336" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.221" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/mipmap-anydpi-v26/launcher.xml" value="0.222" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/mipmap-anydpi-v26/launcher_round.xml" value="0.222" />
       </map>
     </option>
   </component>
