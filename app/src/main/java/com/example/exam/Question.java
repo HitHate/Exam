@@ -127,10 +127,10 @@ public class Question extends AppCompatActivity {
                     TextView tv_now = sl.findViewById(i[0]);
                     if(check[i[0] - 1] != null && !check[i[0] - 1].equals("")){
 //                        tv_now.setBackgroundColor(getResources().getColor(R.color.teal_200));
-                        tv.setBackground(AppCompatResources.getDrawable(Question.this,R.drawable.circle_blue));
+                        tv_now.setBackground(AppCompatResources.getDrawable(Question.this,R.drawable.circle_blue));
                     }else {
 //                        tv_now.setBackgroundColor(getResources().getColor(R.color.white));
-                        tv.setBackground(AppCompatResources.getDrawable(Question.this,R.drawable.circle));
+                        tv_now.setBackground(AppCompatResources.getDrawable(Question.this,R.drawable.circle));
                     }
                     i[0] = Integer.parseInt((String) tv.getText());
                     now.setText(String.valueOf(i[0]));
