@@ -49,6 +49,7 @@ public class grades extends AppCompatActivity {
         TextView grades = findViewById(R.id.grades);
 
         Button go = findViewById(R.id.go);
+        Button go2 = findViewById(R.id.go2);
         Button save_local = findViewById(R.id.save_local);
         Button save = findViewById(R.id.save);
 
@@ -136,6 +137,17 @@ public class grades extends AppCompatActivity {
             public void onClick(View v) {
 
                 Intent intent1 = new Intent(grades.this,Error_question.class);
+                intent1.putExtra("error",error);
+                intent1.putExtra("check",error_answer);
+                grades.this.startActivity(intent1);
+            }
+        });
+
+        go2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent intent1 = new Intent(grades.this,Error_question_pager.class);
                 intent1.putExtra("error",error);
                 intent1.putExtra("check",error_answer);
                 grades.this.startActivity(intent1);
