@@ -119,6 +119,7 @@ public class grades extends AppCompatActivity {
             if(result*10%10 == 0){
                 grades.setText(String.valueOf((int)result));
                 go.setEnabled((int)result != 100);
+                go2.setEnabled((int)result != 100);
             }else{
                 grades.setText(String.valueOf(result));
             }

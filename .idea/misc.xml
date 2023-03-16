@@ -12,7 +12,7 @@
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/drawable/tab.xml" value="0.222" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/drawable/tab_red.xml" value="0.222" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/drawable/transition_rawable.xml" value="0.221" />
-        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_choose_number.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_choose_number.xml" value="0.264" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_error_question.xml" value="0.264" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_error_question_pager.xml" value="0.24351851851851852" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/activity_grades.xml" value="0.27395833333333336" />
@@ -29,6 +29,7 @@
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/fragment_item_list.xml" value="0.259375" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/fragment_slideshow.xml" value="0.27395833333333336" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/history_show.xml" value="0.23192239858906524" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/lllll.xml" value="0.24351851851851852" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/name.xml" value="0.24259259259259258" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/nav_header_user_operation.xml" value="0.27395833333333336" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Exam/app/src/main/res/layout/show.xml" value="0.4" />

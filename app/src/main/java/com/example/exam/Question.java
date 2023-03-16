@@ -6,7 +6,6 @@ import androidx.appcompat.content.res.AppCompatResources;
 import androidx.fragment.app.Fragment;
 
 
-import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
 
@@ -17,8 +16,7 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import android.view.ViewGroup;
-import android.view.WindowManager;
+
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -31,11 +29,11 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.text.SimpleDateFormat;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
-import java.util.Locale;
+
 import java.util.Objects;
 
 public class Question extends AppCompatActivity {
@@ -91,6 +89,8 @@ public class Question extends AppCompatActivity {
         HashMap<String, String> operation = question_list.get("op");
         assert operation != null;
         op = operation.get("op");
+
+        next.setEnabled(position.size()!=1);
         assert position != null;
         final String[] check = new String[position.size()];
         number.setText(String.valueOf(position.size()));
